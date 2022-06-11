@@ -17,4 +17,5 @@ Four machine learning model types were used to predict the price of the careds:
 2) Support Vector Regression
 3) Random Forest Regression
 4) Neural Network Regression
+
 Out of all 4 models tested, the neural network regression model perofrmed the best overall with a mean absolute error(MAE) of $1.10 and a root mean squared error(RMSE) of $2.78. Further details on each model can be found in the project powerpoint.
